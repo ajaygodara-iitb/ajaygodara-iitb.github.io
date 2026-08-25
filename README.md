@@ -2,7 +2,7 @@
 
 Personal website showcasing glaciology research, field expeditions, and photography from Antarctica, the Himalayas, and beyond.
 
-**🌐 Visit:** [ajaygodara.github.io](https://ajaygodara.github.io/ajaygodara-iitb.github.io/)
+**🌐 Visit:** [ajaygodara-iitb.github.io](https://ajaygodara.github.io/ajaygodara-iitb.github.io/)
 
 ## About
 
